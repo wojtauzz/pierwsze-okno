@@ -7,6 +7,6 @@
         Title="Moje okno"
         Width="500" Height="300"
         WindowStartupLocation="CenterScreen"
-        CanResize="False">
+        WindowState="Maximized">
     Welcome to Avalonia!
 </Window>
