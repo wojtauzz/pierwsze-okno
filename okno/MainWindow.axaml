@@ -6,7 +6,6 @@
         x:Class="okno.MainWindow"
         Title="Moje okno"
         Width="500" Height="300"
-        WindowStartupLocation="CenterScreen"
-        WindowState="Maximized">
-    Welcome to Avalonia!
+        WindowStartupLocation="CenterScreen">
+    Hej, to moje pierwsze okno!
 </Window>
