@@ -7,5 +7,5 @@
         Title="Moje okno"
         Width="500" Height="300"
         WindowStartupLocation="CenterScreen">
-    <TextBlock Text="Hej, to moje pierwsze okno!" FontSize="32" FontWeight="Bold" />
+    <TextBlock Text="Hej, to moje pierwsze okno!" FontSize="32" FontWeight="Bold" FontStyle="Italic" />
 </Window>
